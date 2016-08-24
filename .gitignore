@@ -1,1 +1,10 @@
 node_modules
+_site/
+.sass-cache/
+.jekyll-metadata
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+Session.vim
+.netrwhist
+*~
+tags
